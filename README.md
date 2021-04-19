@@ -16,3 +16,20 @@
 
 ## Delete Job Seeker By Id:
 ![Delete Job Seeker By Id](https://user-images.githubusercontent.com/41969044/115224038-0d5f9b80-a12a-11eb-9120-b91230bb5426.png)
+
+# Job Seeker Snapshots:
+
+## Save Job Category:
+![Save Job Category](https://user-images.githubusercontent.com/41969044/115225432-b064e500-a12b-11eb-875b-a849fc59d14e.png)
+
+## Show All Job Categories:
+![Show All Job Categories](https://user-images.githubusercontent.com/41969044/115225448-b65ac600-a12b-11eb-8b76-62855dae253c.png)
+
+## Show Job Category By Id:
+![Show Job Category By Id](https://user-images.githubusercontent.com/41969044/115225456-b955b680-a12b-11eb-869e-e74b451d6033.png)
+
+## Update Job Category By Id:
+![Update Job Category By Id](https://user-images.githubusercontent.com/41969044/115225477-beb30100-a12b-11eb-989d-acaaf5633290.png)
+
+## Delete Job Category By Id:
+![Delete Job Category By Id](https://user-images.githubusercontent.com/41969044/115225488-c2468800-a12b-11eb-84a1-0b574e4beb40.png)
