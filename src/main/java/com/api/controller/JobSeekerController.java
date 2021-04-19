@@ -110,7 +110,7 @@ public class JobSeekerController
 	@PutMapping("/update-jobseeker/{id}")
 	private ResponseEntity<?> updateJobSeeker(@PathVariable("id") int jobSeekerId, @RequestBody JobSeeker jobSeekerNew) 
 	{	
-		int index=0;
+		int index=-1;
 		
 		for(JobSeeker js : JobSeekerList) 
 		{ 
@@ -121,7 +121,7 @@ public class JobSeekerController
 			}
 		}
 		
-		if(index == 0)
+		if(index == -1)
 		{
 			return new ResponseEntity<>(HttpStatus.NOT_FOUND);
 		}
