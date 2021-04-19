@@ -17,7 +17,7 @@
 ## Delete Job Seeker By Id:
 ![Delete Job Seeker By Id](https://user-images.githubusercontent.com/41969044/115224038-0d5f9b80-a12a-11eb-9120-b91230bb5426.png)
 
-# Job Seeker Snapshots:
+# Job Category Snapshots:
 
 ## Save Job Category:
 ![Save Job Category](https://user-images.githubusercontent.com/41969044/115225432-b064e500-a12b-11eb-875b-a849fc59d14e.png)
