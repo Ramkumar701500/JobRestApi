@@ -110,7 +110,7 @@ public class JobCategoryController
 	@PutMapping("/update-jobcategory/{id}")
 	private ResponseEntity<?> updateJobCategory(@PathVariable("id") int jobCategoryId, @RequestBody JobCategory jobCategoryNew) 
 	{	
-		int index=0;
+		int index=-1;
 		
 		for(JobCategory jc : JobCategoryList) 
 		{ 
@@ -121,7 +121,7 @@ public class JobCategoryController
 			}
 		}
 		
-		if(index == 0)
+		if(index == -1)
 		{
 			return new ResponseEntity<>(HttpStatus.NOT_FOUND);
 		}
