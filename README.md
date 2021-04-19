@@ -6,7 +6,7 @@
 ![Save Job Seeker](https://user-images.githubusercontent.com/41969044/115223961-fe78e900-a129-11eb-9bf1-c883ea2a0c88.png)
 
 ## Show All Job Seekers:
-
+![Show All Job Seekers](https://user-images.githubusercontent.com/41969044/115226586-0a19df00-a12d-11eb-92ad-cfdeadd50b5d.png)
 
 ## Show Job Seeker By Id:
 ![Show Job Seeker By Id](https://user-images.githubusercontent.com/41969044/115224001-0769ba80-a12a-11eb-8b5c-2aa17187bef5.png)
