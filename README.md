@@ -3,4 +3,4 @@
 ## Job Seeker Snapshots:
 
 
-## Job Seeker Snapshots:
+## Job Category Snapshots:
